@@ -1,4 +1,6 @@
+import * as React from 'react'
 import { motion } from 'framer-motion'
+
 export function DecorativeFlourish() {
   return (
     <div className="flourish" aria-hidden>
